@@ -1,4 +1,4 @@
-# code-quiz-challenge
+# Code Quiz Challenge
 
-https://pkamble35.github.io/code-quiz-challenge/
+Deployed Link:- https://pkamble35.github.io/code-quiz-challenge/
 
