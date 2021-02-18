@@ -272,6 +272,9 @@ var complete = function completed(isExpired){
 }
 var highScore = function highScore(){
     var q = document.getElementById("ques1");
+    var domSection = document.getElementById("contentSection");
+    domSection.removeChild(domSection.childNodes[1]);
+    domSection.removeChild(domSection.childNodes[1]);
     q.textContent = "High Score is :  "  + score;
     submit.innerHTML = "Go back";
     submit.addEventListener("click", function () {
