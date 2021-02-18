@@ -6,9 +6,21 @@
     transform: translate(-50%, -50%);
 }
 
-
-
-/* Start Quiz Button Styling */
-.start_btn button{
-    
+.no-bullets {
+    list-style-type: none; 
+    padding: 0; 
+   
+  }
+.card-style{
+    margin: 10 auto;
+}
+.footer-text{
+    text-align: center;
+}
+.label-text{
+    font-weight: bold;
+    padding-right: 1%;
+}
+.input-text{
+    padding-left: 1%;
 }
